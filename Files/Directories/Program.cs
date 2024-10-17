@@ -46,5 +46,5 @@ List<string> thecontents = new
 List<string>(Directory.EnumerateFileSystemEntries(curpath));
 foreach (string dir in thecontents)
 {
-    Console.WriteLine(dir);
+     Console.WriteLine(dir);
 }

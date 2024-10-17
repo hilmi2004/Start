@@ -10,7 +10,7 @@ DateTime today = DateTime.Now;
 Console.WriteLine(today);
 
 // TODO: DateOnly and TimeOnly represent just dates and times
-DateOnly dt = DateOnly.FromDateTime(DateTime.)
+DateOnly dt = DateOnly.FromDateTime(DateTime.Now);
 
 // TODO: Dates have properties that can be inspected
 
